@@ -27,13 +27,6 @@ A minimal React weather application that lets you search for a city and displays
 
 ---
 
-
-Install Quasar (if not already) and your design system:
-
-```bash
-npm install
-npm run dev
-```
 Install dependencies:
 ```bash
 npm install
